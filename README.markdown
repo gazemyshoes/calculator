@@ -50,6 +50,3 @@ Una aplicación de calculadora móvil desarrollada en **Flutter** con **Dart**, 
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un *issue* o envía un *pull request* con mejoras o correcciones.
-
-## Licencia
-MIT License
